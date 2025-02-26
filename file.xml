@@ -1,0 +1,64 @@
+﻿	
+
+<?xml version="1.0" encoding="UTF-8"?>
+<technical_manual>
+	<metadata>
+		<title>User manual</title>
+		<author>Amogh CG</author>
+		<version>1.0</version>
+		<date>2025-02-26</date>
+	</metadata>
+	<section id="introduction">
+		<title>Introduction</title>
+		<content>
+            This manual provides detailed information on the inseration of SIM card to mobile phone and make a call .
+        </content>
+	</section>
+	<section id="Procedure">
+		<title>Procedure</title>
+		<content>
+            To insert the SIM card, open the slot at the right side of the mobile with the help of pin.
+            Open the slot, place the SIM card in the slot 1.
+            Close the slot,wait till screen shows the nertwork signal.
+        </content>
+	</section>
+	<section id="Safety">
+		<title>Safety</title>
+		<content>
+            Do not place in moisture place.
+        </content>
+	</section>
+	<section id="operation">
+		<title>Operation</title>
+		<content>
+            After the Network display, open contact and call to required number.
+        </content>
+	</section>
+	<section id="troubleshooting">
+		<title>Troubleshooting</title>
+		<content>
+            If Network signal is not showned in the mobile scereen, reinsert the SIM card.
+        </content>
+	</section>
+	<section id="maintenance">
+		<title>Maintenance</title>
+		<content>
+            wash the mobile phone with dry cloth.
+        </content>
+	</section>
+</technical_manual>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
